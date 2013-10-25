@@ -1,5 +1,6 @@
 {
-  "name" : "twitter-link"
+  "name" : "twitter-link",
+  "description" : "Simple Node.js interface for making requests to Twitter's API",
   "dependencies" : {
     "oauth": "0.9.10"
   }
