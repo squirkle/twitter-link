@@ -1,0 +1,6 @@
+{
+  "name" : "twitter-link"
+  "dependencies" : {
+    "oauth": "0.9.10"
+  }
+}
